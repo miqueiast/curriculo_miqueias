@@ -1,0 +1,98 @@
+---
+title: "Miqueias Teixeira"
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    keep_tex: true
+geometry: margin=1in
+---
+
+## Professional Summary
+
+Experienced Data Analyst with a strong background in business intelligence, Business analysis, and data-driven decision making. Skilled in SQL, Python, R, Tableau, and Power BI. Proficient in data collection, cleaning, and analysis, with a proven track record of delivering actionable insights to stakeholders.
+
+## Professional Experience
+
+### Mid-level Data Analyst
+**Grupo MiniPreço* | Curitiba, Paraná, Brazil | August 2023 - Present
+
+- Collect and clean data from various sources using SQL, Python, and R.
+- Conduct exploratory data analysis to identify trends and patterns.
+- Develop statistical and machine learning models to predict outcomes and identify business opportunities.
+- Present results and insights to clients and stakeholders in a clear and accessible manner.
+- Contribute to the company's data culture by promoting the use of data analysis across all areas.
+- Build dashboards using Tableau and Power BI for clear and concise data visualization.
+
+### Data Analyst
+**Vencys do Brasil** | Curitiba, Paraná, Brazil | January 2023 - July 2023
+
+- Assisted in implementing a data lake and creating BI routines and processes using SQL, ETL, Python, and Power BI.
+- Built dashboards and reports for business, Businessing, and logistics teams to aid in decision-making.
+- Performed daily activities such as data collection, cleaning, and processing for analysis.
+- Developed statistical and machine learning models to predict outcomes and identify business opportunities.
+
+### Business Development and Business Intelligence Developer
+**GRPCOM | Grupo Paranaense de Comunicação** | Curitiba, Paraná, Brazil | November 2020 - January 2023
+
+- Developed the TV Pre-sales area, creating the entire process for prospecting new TV clients.
+- Conducted research and analysis of audience data to present more effective prospecting.
+- Utilized software resources such as Excel, Python, SQL, and Power BI to aid in business intelligence.
+
+### Business Intelligence Analyst
+**inFlux English School** | Curitiba Region, Brazil | July 2018 - October 2020
+
+- Collected, analyzed, and interpreted data from the educational Business to support strategic decision-making.
+- Monitored Business data, including information on students, competitors, educational trends, and public policies.
+- Developed and maintained a Business data monitoring system.
+
+### Junior Commercial Analyst
+**GE** | Curitiba, Brazil | May 2016 - June 2018
+
+- Produced reports, prepared contracts, and checked documents using Excel and Salesforce CRM.
+- Collaborated in programming sales routines and developing strategies for prospecting new clients.
+
+### Commercial Assistant
+**GE** | Curitiba, Brazil | February 2015 - May 2016
+
+- Managed customer orders, ensuring accurate and up-to-date information.
+- Conducted sales analysis to identify growth trends and opportunities.
+- Provided support to the sales team in daily activities and maintained the customer database.
+
+## Skills
+
+- Data Analysis
+- SQL
+- Python
+- R
+- Tableau
+- Power BI
+- Machine Learning
+- Statistical Modeling
+- Data Visualization
+- Business Intelligence
+
+## Languages
+
+- Portuguese (Native)
+- English (Proficient)
+
+## Education
+
+### Federal University of Paraná (Universidade Federal do Paraná)
+**Bachelor's Degree, Statistics** | January 2023 - July 2027 (Expected)
+- Developing skills in: Microsoft Excel, Statistics, Critical Thinking, C Programming, Data Science, CRM, R Programming, Data Visualization, Programming, Data Mining, Research, Data Collection, Statistical Data Analysis, B2B
+
+### FAE University Center (FAE Centro Universitário)
+**Bachelor's Degree, Commercial Management** | 2016 - 2018
+- Gained solid understanding of Business data analysis techniques and methodologies
+- Deepened knowledge in SQL and Python, creating custom dashboards and automating data collection and processing
+- Learned principles of Business research, including collection, segmentation, and competitive analysis
+- Skills developed: Microsoft Excel, Sales Management, Statistics, Analytical Skills, Critical Thinking, Data Science, Customer Contact, SQL, CRM, Teamwork, R Programming, Data Visualization, Data Mining, Research, Data Collection, Statistical Data Analysis, B2B
+
+### Federal Technological University of Paraná (Universidade Tecnológica Federal do Paraná)
+**Licentiate Degree, Physics** | 2009 - 2012
+- Coursework included: Integral and Differential Calculus I-IV, Differential Equations, Classical Mechanics, Thermodynamics, Waves and Oscillations, Electricity, Electromagnetism, Modern Physics, Quantum Physics, Hamiltonian Calculus, Lagrangian Calculus, Statistics
+- Developed strong analytical and problem-solving skills
+- Gained proficiency in: Microsoft Excel, PowerPoint, Word, LibreOffice, Python, C++, C#, Java, JavaScript, HTML, MySQL, SQL
+- Explored mobile development for educational applications
+- Interdisciplinary education combining pure physics with teaching methodologies and ethical considerations in technology and society

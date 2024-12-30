@@ -9,7 +9,11 @@ geometry: margin=1in
 
 ## Professional Summary
 
-Experienced Data Analyst with a strong background in business intelligence, Business analysis, and data-driven decision making. Skilled in SQL, Python, R, Tableau, and Power BI. Proficient in data collection, cleaning, and analysis, with a proven track record of delivering actionable insights to stakeholders.
+Experienced Data Analyst with a robust background in business intelligence, business analysis, and data-driven decision-making. Adept at leveraging advanced analytical tools and techniques to uncover trends, optimize processes, and support strategic initiatives. Skilled in SQL, Python, R, Tableau, and Power BI, with extensive experience in designing and implementing data pipelines for efficient data collection, transformation, and visualization.
+
+Proficient in data cleaning, preparation, and statistical analysis to ensure accuracy and reliability of insights. Demonstrated ability to communicate complex findings through clear visualizations and reports tailored to diverse audiences, including technical teams and executive stakeholders. Proven track record of delivering actionable insights that drive business growth, improve operational efficiency, and support evidence-based decision-making.
+
+Strong collaborative skills developed through cross-functional projects involving IT, marketing, finance, and operations teams. Passionate about using data to solve complex problems and identify opportunities for innovation. Continuously learning new technologies and methodologies to stay at the forefront of the rapidly evolving data analytics field. 
 
 ## Professional Experience
 
@@ -80,17 +84,22 @@ Experienced Data Analyst with a strong background in business intelligence, Busi
 
 ### Federal University of Paraná (Universidade Federal do Paraná)
 **Bachelor's Degree, Statistics** | January 2023 - July 2027 (Expected)
+
 - Developing skills in: Microsoft Excel, Statistics, Critical Thinking, C Programming, Data Science, CRM, R Programming, Data Visualization, Programming, Data Mining, Research, Data Collection, Statistical Data Analysis, B2B
+
+- Comprehensive training in statistical analysis, data science, and programming, with a focus on solving real-world problems through data-driven approaches. Developed strong skills in statistical modeling, machine learning, data visualization, and programming languages such as R, Python, and C. Experienced in data mining, predictive analytics, and the ethical use of data. Proficient in tools like Microsoft Excel, CRM systems, and advanced data visualization platforms. Prepared to apply critical thinking and analytical skills to drive insights and support decision-making in business contexts.
 
 ### FAE University Center (FAE Centro Universitário)
 **Bachelor's Degree, Commercial Management** | 2016 - 2018
+
 - Gained solid understanding of Business data analysis techniques and methodologies
 - Deepened knowledge in SQL and Python, creating custom dashboards and automating data collection and processing
 - Learned principles of Business research, including collection, segmentation, and competitive analysis
 - Skills developed: Microsoft Excel, Sales Management, Statistics, Analytical Skills, Critical Thinking, Data Science, Customer Contact, SQL, CRM, Teamwork, R Programming, Data Visualization, Data Mining, Research, Data Collection, Statistical Data Analysis, B2B
 
 ### Federal Technological University of Paraná (Universidade Tecnológica Federal do Paraná)
-**Licentiate Degree, Physics** | 2009 - 2012
+**Bachelor of Education Degree/Licentiate, Physics** | 2009 - 2012
+
 - Coursework included: Integral and Differential Calculus I-IV, Differential Equations, Classical Mechanics, Thermodynamics, Waves and Oscillations, Electricity, Electromagnetism, Modern Physics, Quantum Physics, Hamiltonian Calculus, Lagrangian Calculus, Statistics
 - Developed strong analytical and problem-solving skills
 - Gained proficiency in: Microsoft Excel, PowerPoint, Word, LibreOffice, Python, C++, C#, Java, JavaScript, HTML, MySQL, SQL

@@ -82,13 +82,6 @@ Strong collaborative skills developed through cross-functional projects involvin
 
 ## Education
 
-### Federal University of Paraná (Universidade Federal do Paraná)
-**Bachelor's Degree, Statistics** | January 2023 - July 2027 (Expected)
-
-- Developing skills in: Microsoft Excel, Statistics, Critical Thinking, C Programming, Data Science, CRM, R Programming, Data Visualization, Programming, Data Mining, Research, Data Collection, Statistical Data Analysis, B2B
-
-- Comprehensive training in statistical analysis, data science, and programming, with a focus on solving real-world problems through data-driven approaches. Developed strong skills in statistical modeling, machine learning, data visualization, and programming languages such as R, Python, and C. Experienced in data mining, predictive analytics, and the ethical use of data. Proficient in tools like Microsoft Excel, CRM systems, and advanced data visualization platforms. Prepared to apply critical thinking and analytical skills to drive insights and support decision-making in business contexts.
-
 ### FAE University Center (FAE Centro Universitário)
 **Bachelor's Degree, Commercial Management** | 2016 - 2018
 
@@ -96,6 +89,13 @@ Strong collaborative skills developed through cross-functional projects involvin
 - Deepened knowledge in SQL and Python, creating custom dashboards and automating data collection and processing
 - Learned principles of Business research, including collection, segmentation, and competitive analysis
 - Skills developed: Microsoft Excel, Sales Management, Statistics, Analytical Skills, Critical Thinking, Data Science, Customer Contact, SQL, CRM, Teamwork, R Programming, Data Visualization, Data Mining, Research, Data Collection, Statistical Data Analysis, B2B
+
+### Federal University of Paraná (Universidade Federal do Paraná)
+**Bachelor's Degree, Statistics** | January 2009 - July 2013
+
+- Developing skills in: Microsoft Excel, Statistics, Critical Thinking, C Programming, Data Science, CRM, R Programming, Data Visualization, Programming, Data Mining, Research, Data Collection, Statistical Data Analysis, B2B
+
+- Comprehensive training in statistical analysis, data science, and programming, with a focus on solving real-world problems through data-driven approaches. Developed strong skills in statistical modeling, machine learning, data visualization, and programming languages such as R, Python, and C. Experienced in data mining, predictive analytics, and the ethical use of data. Proficient in tools like Microsoft Excel, CRM systems, and advanced data visualization platforms. Prepared to apply critical thinking and analytical skills to drive insights and support decision-making in business contexts.
 
 ### Federal Technological University of Paraná (Universidade Tecnológica Federal do Paraná)
 **Bachelor of Education Degree/Licentiate, Physics** | 2009 - 2012

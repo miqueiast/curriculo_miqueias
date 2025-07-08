@@ -1,9 +1,9 @@
 ---
-title: "Currículo Profissional"
-output: 
-  pdf_document:
-    latex_engine: pdflatex
-    keep_tex: true
+title: "Ana Lucia Barreto"
+output:
+  pdf_document:
+  latex_engine: pdflatex
+  keep_tex: true
 geometry: margin=1in
 ---
 

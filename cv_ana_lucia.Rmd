@@ -1,0 +1,118 @@
+---
+title: "Currículo Profissional"
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    keep_tex: true
+geometry: margin=1in
+---
+
+## Resumo de Qualificações
+
+Carreira desenvolvida em Empresas de Grande, médio e pequeno porte, com destaque para atuação nas áreas Administrativas, Comercial, Atendimento ao cliente, Licitações e Marketing Estratégico.
+
+Conhecimento na utilização de ferramentas de Gestão Comercial, Administrativa, Atendimento ao cliente e Marketing estratégico, como: Pacote Office (Excel, Word, PowerPoint), Power BI, SAP, Mannesoft SGA, Salesforce, Protheus, CIGAM, Magento, Conlicitação, OMIE, Canva, ASANA e outras.
+
+## Experiência Profissional
+
+### Analista Comercial Pleno
+**SM Facilities** | 2024 - 2025
+
+* Prospecção e captação de editais: análise, segmentação e avaliação de participação, cadastramento, preparo documental, participação da sessão e acompanhamento de resultados, gestão contratual e comercial dos editais ganhos.
+* Gestão de carteira de clientes, ativos e inativos, prospecção passiva.
+* Prospecção de novos clientes, apresentação e realização de agendamentos para visitas.
+* Elaboração de propostas e ordens de serviço, negociação e acompanhamento até a finalização.
+* Elaboração de indicadores de desempenho, relatórios e apresentações gerenciais.
+* Atendimento ao cliente e suporte comercial pós-venda, para novas demandas de serviço e fidelização.
+
+### Assistente Administrativo - Analista Administrativo Comercial Júnior
+**Positivo Tecnologia** | 2019 - 2024
+
+* Prospecção e captação de editais: análise, segmentação e avaliação de participação, acompanhamento de resultados.
+* Apoio administrativo e comercial ao setor de Vendas Públicas e Governamentais. Elaboração de indicadores de desempenho da área, atas e relatórios gerenciais de análise da área comercial.
+* Atendimento ao cliente e suporte comercial, e encaminhamento de demandas para demais setores.
+* Divulgação de campanhas de marketing, distribuição de brindes, gestão de leads, acompanhamento de eventos em todas as suas etapas (pré e pós), compilação e coleta de dados referentes aos resultados de campanhas, para elaboração de análises e planejamento de futuras ações.
+* Secretariado executivo, suporte à equipe interna e representantes externos, realização de treinamentos e integração, elaboração de relatórios de despesas, organização de cadastros, controle de compras e reservas de viagens corporativas e gestão do centro de custos da equipe, elaboração de atas e relatórios de reuniões gerenciais, bem como presença, suporte e elaboração de eventos de endomarketing.
+
+### Recepcionista - Auxiliar Administrativo - Analista Financeiro Júnior
+**Partec Tecnologia Ltda** | 2015 - 2018
+
+* Atendimento de recepção e telefônico, tratamento e gestão de arquivos e correspondências, gestão e realização de compras de suprimentos, materiais de escritório e contratação de serviços terceirizados de manutenção e conservação predial.
+* Atendimento ao cliente e SAC, com o objetivo de suporte técnico para soluções de problemas, sugestões e reclamações em relação à marca, serviço ou produto.
+* Secretariado executivo, controle da agenda do gestor, elaboração de viagens e apresentações, gestão de viagens, compra de passagens, reservas de hotéis, roteiros, elaboração de relatórios de custos e conferência e liberação de prestação de contas e reembolsos.
+* Atuação na área financeira em contas a pagar e a receber, cobrança, negociação de títulos, prorrogação de prazos, conciliação bancária, controle de faturamento.
+* Gestão comercial com acompanhamento do cumprimento de metas de recuperação de clientes e títulos em aberto, cálculo, apuração e distribuição de comissões do time de vendas.
+* Elaboração de informes periódicos com indicadores financeiros, administrativos e comerciais.
+
+### Customer Care
+**Pearson Education** | 2014 - 2015
+
+* Atendimento ao cliente, carteira de clientes, composta de 120 escolas no Sudeste.
+* Vendas, negociação e elaboração de propostas.
+* Implantação de estratégias de vendas como: promoções, campanhas e apresentação de novos produtos.
+* Execução de planos para fidelização de clientes e pós-venda.
+* Suporte técnico ao cliente com atendimento no SAC, registro e auditoria de reclamações e sugestões de clientes.
+* Gestão logística do início da realização do pedido até a finalização da entrega.
+
+### Assistente de Vendas Internas
+**Tramontina** | 2013 - 2014
+
+* Atendimento ao cliente, pessoa física e jurídica com atividades de recepção e SAC.
+* Suporte à equipe de vendas, com consultas internas ao financeiro, verificação de estoque, lançamentos e autorização de pedidos e orçamentos.
+* Distribuição e controle e armazenamento de materiais publicitários, para promotores.
+* Compilação e unificação de dados, status, volume e valores de pedidos das unidades fabris.
+* Elaboração de apresentações para reuniões e relatórios gerenciais.
+* Secretariado executivo, gestão da agenda do gestor, elaboração de visitas a clientes e viagens.
+
+### Outras Atuações
+
+* **Serviço temporário de inventariante** - 5ASEC | 2024
+* **Serviço temporário de atendimento ao cliente** – WE ART | 2018
+* **Serviço temporário de Trainee Salesforce** – Wise Educação | 2018
+* **Estagiária de Administração de Empresas** – Tribunal de Justiça do Estado do Paraná | 2010 - 2012
+* **Menor Aprendiz** – Mc Autopeças | 2006 - 2008
+
+## Habilidades
+
+* Pacote Office (Excel, Word, PowerPoint)
+* Power BI
+* SAP
+* Mannesoft SGA
+* Salesforce
+* Protheus
+* CIGAM
+* Magento
+* Conlicitação
+* OMIE
+* Canva
+* ASANA
+* Gestão Comercial
+* Gestão Administrativa
+* Atendimento ao Cliente
+* Marketing Estratégico
+* Prospecção de Editais
+* Gestão de Carteira de Clientes
+* Elaboração de Propostas
+* Negociação
+* Indicadores de Desempenho
+* Relatórios Gerenciais
+* Suporte Pós-Venda
+* Secretariado Executivo
+* Gestão Financeira (Contas a Pagar e Receber, Cobrança)
+* Conciliação Bancária
+* Controle de Faturamento
+* Gestão de Metas
+* Cálculo e Distribuição de Comissões
+* Gestão Logística
+* SAC
+
+## Idiomas
+
+* Português (Nativo)
+* Inglês (Básico)
+* Espanhol (Básico)
+
+## Formação Acadêmica
+
+### Bacharel em Administração de Empresas
+**Faculdade Opet Curitiba** | Curitiba, Paraná | Concluída em 06/2013
